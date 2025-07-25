@@ -37,5 +37,7 @@ After Installation you can access the grafana through 3000 port
 `https:\\<ec2-public-ip>:3000`
 
 ## Additional Setup
-- If you want to add alert through Grafana, we can create alert_id to send the email if its exceeds the given limit
+- If you want to add alert through Grafana, we can create alert_id to send the email if its exceeds the given limit.
 
+## SnapShot
+![image (1)](https://github.com/user-attachments/assets/ef4f282e-0c65-4c91-9295-564f61c9cf2e)
